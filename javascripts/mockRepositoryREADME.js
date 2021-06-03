@@ -18,4 +18,4 @@ let readme = {
   };
 
 
-  modules.export = readme;
+  export { readme };
